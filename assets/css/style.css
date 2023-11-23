@@ -435,6 +435,13 @@ a {
     margin-left: -3px;
     object-fit: cover;
     border-radius: 50%;
+    background: var(--bg-color, #fff);
+    color: #fff;
+    font-size: 0.7rem;
+    line-height: 16px;
+    text-align: center;
+    font-weight: 450;
+    letter-spacing: -0.145px;
 }
 
 .stats .img-block .image {
